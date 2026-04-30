@@ -1,3 +1,5 @@
 # Unidade 03
-* Estruturas de decisão.
+* Estruturas de decisão:
+     * if/else;
+     * switch;
 
